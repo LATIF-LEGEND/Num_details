@@ -1,7 +1,7 @@
 #Coding:utf-8
-#Code By : MR.AKING
-#Github : AKING10
-#Facebook : MR.AKING.007
+#Code By : tk.legend
+#Github : tk legend
+#Facebook : tk.legend.007
 #Enjoy The Code Love You All ❤️‍🩹
 '------------------------------'
 logo = f'''\033[1;37m  ____  _____  ____    ____  ______   _______     
